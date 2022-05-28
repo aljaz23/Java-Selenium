@@ -1,1 +1,1 @@
-Task wasn't finished properly, because I didn't have Dynamics environment license anymore.
+Java Selenium.
